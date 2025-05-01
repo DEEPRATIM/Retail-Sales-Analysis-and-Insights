@@ -1,6 +1,6 @@
 # Retail-Sales-Analysis-and-Insights
 
-This project presents a comprehensive analysis of a US retail sales dataset (Kaggle, 9,994 orders) covering office supplies, furniture, and technology. The goal is to uncover actionable insights to optimize profitability, pricing, discounting, and inventory strategies for a multi-region, multi-segment retailer.
+This project presents a comprehensive analysis of a US retail sales dataset covering office supplies, furniture, and technology using python. The goal is to uncover actionable insights to optimize profitability, pricing, discounting, and inventory strategies for a multi-region, multi-segment retailer.
 
 🗂️ Dataset
 * Source: US Retail Sales Dataset
